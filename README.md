@@ -25,7 +25,7 @@ To get from movie_data_gross.xlsx to movie_data_cleaned.xlsx, we performed the f
 2. Replaced missing values
 3. Standardized the formatting and cleaned up other minor issues
 
-### Data Analysis
+### Data Analysis Questions
 
 The analysis in this project was primarily exploratory, aiming to answer the following questions:
 - Has the passage of time significantly influenced the reception of Samuel L. Jackson’s movies?
