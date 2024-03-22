@@ -14,9 +14,9 @@ Output.docx is a Word file containing, for reference purposes, all code used to 
 
 ### Tools Used
 
-- Microsoft Excel, for data cleaning
-- RStudio, for data analysis and visual output
-- Microsoft Word, for composing the final report
+- Microsoft Excel, for data cleaning and viewing.
+- RStudio, for data analysis and visual output.
+- Microsoft Word, for composing the final report.
 
 ### Data Cleaning
 
