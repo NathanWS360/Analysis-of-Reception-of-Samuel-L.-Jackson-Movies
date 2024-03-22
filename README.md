@@ -22,7 +22,7 @@ Output.docx is a Word file containing, for reference purposes, all code used to 
 
 To get from movie_data_gross.xlsx to movie_data_cleaned.xlsx, we performed the following steps:
 1. Inspected the data
-2. Replaced missing values
+2. Replaced missing values with "NA", so that R would ignore these values during the respective analyses.
 3. Standardized the formatting and cleaned up other minor issues
 
 ### Data Analysis Questions
